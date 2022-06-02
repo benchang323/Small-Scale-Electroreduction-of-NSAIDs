@@ -1,0 +1,6 @@
+Trial (2min),ReferenceNum,Wavelength (nm),Absorbance Before (Au),Absorbance After (Au)
+1, 5, 330, 0.0571, 0.0367
+2, 5, 330, 0.0573, 0.0368
+3, 5, 330, 0.0575, 0.0362
+4, 5, 330, 0.0570, 0.0361
+5, 5, 330, 0.0579, 0.0363

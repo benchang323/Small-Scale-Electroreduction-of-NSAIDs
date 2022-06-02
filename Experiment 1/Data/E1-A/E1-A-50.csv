@@ -1,0 +1,6 @@
+Trial,Temperature (˚C),Wavelength (nm),Absorbance Before (Au),Absorbance After (Au)
+1, 50, 330, 0.4323, 0.4201
+2, 50, 330, 0.4326, 0.4202
+3, 50, 330, 0.4322, 0.4203
+4, 50, 330, 0.4329, 0.4202
+5, 50, 330, 0.4321, 0.4201
